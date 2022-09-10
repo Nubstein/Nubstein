@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nubia</h1>
-<h3 align="center">A data analyst student</h3>
+<h3 align="center">A data analyst student 👩‍🏫📈</h3>
 
 - 🌱 I’m currently learning **SQL, Python,R, Power BI**
 
 - 📫 How to reach me **nubia.stein@gmail.com**
 
-- ⚡ Hobbies **books and gym**
+- 😍 Hobbies ** 📖and🏋️‍♀️ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
