@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nubia stein kuhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nubia stein kuhn" height="30" width="40" /></a>
-<a href="https://kaggle.com/nubia stein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nubia stein" height="30" width="40" /></a>
-<a href="https://instagram.com/nubia stein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nubia stein" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nubia-stein-kuhn-05084533/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nubia stein kuhn" height="30" width="40" /></a>
+<a href="https://kaggle.com/nubiastein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nubia stein" height="30" width="40" /></a>
+<a href="https://instagram.com/nubiastein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nubia stein" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools that I'm learning:</h2>
