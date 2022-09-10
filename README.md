@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Nubstein/Nubstein/raw/main/assets/header-github.gif" alt="Oi, eu sou a Kizzy">
+  <img src="https://github.com/Nubstein/Nubstein/raw/main/assets/header-github.gif" alt="Hi, I'm Nubia">
 </p>
 
 <!--
