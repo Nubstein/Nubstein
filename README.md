@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Nubstein/Nubstein/raw/main/assets/header-Untitled 3_Trim.gif" alt="Hi, I'm Nubia">
+  <img src="https://github.com/Nubstein/Nubstein/raw/main/assets/header-github.gif" alt="Hi, I'm Nubia">
 </p>
 
 - 🌱 I’m currently learning **SQL, Python,R, Power BI**
