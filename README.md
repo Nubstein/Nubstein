@@ -12,7 +12,7 @@ This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicat
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
-- 🌱 I’m currently learning **SQL, Python,R, Power BI**
+- 🌱 I’m currently learning **SQL, Python and Power BI**
 
 - 📫 How to reach me **nubia.stein@gmail.com**
 
